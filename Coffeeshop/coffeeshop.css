@@ -1,0 +1,19 @@
+.container{
+	height: 300px;
+	border: 2px solid red;
+	position: relative;
+	width: 50px;
+	float: right;
+
+}
+.div1{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+}
+
+.div2{
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+}
